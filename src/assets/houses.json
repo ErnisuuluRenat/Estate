@@ -1,0 +1,50 @@
+[
+  {
+    "id": "0",
+    "imgUrl": "https://1.bp.blogspot.com/-nCKBrF3MZj0/YDNZCXjXz7I/AAAAAAAAAC4/_hZ9pw--Mbk6kVjcsmnGvxPk8NSwsoiugCNcBGAsYHQ/s883/Tips%2BBangun%2BHunian%2BDengan%2BBiaya%2BMinim.jpg",
+    "title": "Capital hill residence",
+    "located": "East London",
+    "rooms": [6, 2, 3],
+    "price": 5527.0
+  },
+  {
+    "id": "1",
+    "imgUrl": "https://avatars.mds.yandex.net/i?id=d5e808f938ea3911fc31b19d468adfea1e0447a2-4477266-images-thumbs&n=13",
+    "title": "Picket Fence Realty",
+    "located": "East London",
+    "rooms": [6, 2, 3],
+    "price": 6727.0
+  },
+  {
+    "id": "2",
+    "imgUrl": "https://avatars.mds.yandex.net/get-images-cbir/1887871/yWx1WcjMiZ9J1SzZgiHkXA9116/ocr",
+    "title": "Banyon Tree Realty",
+    "located": "East London",
+    "rooms": [6, 2, 3],
+    "price": 4327.0
+  },
+  {
+    "id": "3",
+    "imgUrl": "https://avatars.mds.yandex.net/get-images-cbir/8825193/EVnbAqsr2qRHLkzgLyJNxQ9246/ocr",
+    "title": "Corsair Real Estate",
+    "located": "East London",
+    "rooms": [6, 2, 3],
+    "price": 4427.0
+  },
+  {
+    "id": "4",
+    "imgUrl": "https://avatars.mds.yandex.net/get-images-cbir/8608688/61pqB7W7NGMWMXP_y9WCZA9304/ocr",
+    "title": "Sequoia Real Estate",
+    "located": "East London",
+    "rooms": [6, 2, 3],
+    "price": 4540.0
+  },
+  {
+    "id": "5",
+    "imgUrl": "https://klike.net/uploads/posts/2022-11/1669009167_7-12.jpg",
+    "title": "Strive Partners Realty",
+    "located": "West Bishkek",
+    "rooms": [6, 2, 3],
+    "price": 5500.0
+  }
+]

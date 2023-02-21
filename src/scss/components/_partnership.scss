@@ -1,0 +1,31 @@
+.partnership {
+  margin-bottom: 141px;
+  &__text {
+    position: relative;
+    h1 {
+      font-family: "Poppins";
+      font-style: normal;
+      font-weight: 600;
+      font-size: 44px;
+      line-height: 66px;
+
+      /* identical to box height */
+
+      color: #030a1b;
+      text-align: center;
+      margin-bottom: 65px;
+    }
+  }
+
+  svg {
+    position: absolute;
+    top: 0;
+    left: 37.8%;
+  }
+}
+
+.partners {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 109px;
+}

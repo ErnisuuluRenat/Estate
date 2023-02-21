@@ -1,0 +1,45 @@
+@import "./variables";
+@import "./libs/normalize";
+@import "./components/all";
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+body {
+  background-color: #ffffff;
+  font-family: "Poppins";
+}
+
+.wrapper {
+  height: 100%;
+  width: 75%;
+  margin: 0 auto;
+}
+
+.container {
+  height: 100%;
+  width: 75%;
+  margin: 0 auto;
+}
+
+.content__items {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 30px;
+  margin-bottom: 140px;
+}
+
+.popular__property {
+  margin-bottom: 70px;
+
+  h1 {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 66px;
+
+    /* identical to box height */
+
+    color: #030a1b;
+  }
+}
