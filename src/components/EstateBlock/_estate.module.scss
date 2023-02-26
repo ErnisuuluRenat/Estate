@@ -4,6 +4,11 @@
   background: #ffffff;
   box-shadow: 0px 8px 70px rgba(0, 0, 0, 0.07);
   border-radius: 10px;
+  transition: all 500ms ease;
+
+  &:hover {
+    transform: scale(1.1);
+  }
 
   &__img {
     border-radius: 10px;
@@ -140,6 +145,12 @@
       /* identical to box height */
 
       color: #ffffff;
+      transition: all 500ms ease;
+    }
+
+    a:hover {
+      background-color: #fe753f;
+      transform: translateY(-15%);
     }
   }
 }

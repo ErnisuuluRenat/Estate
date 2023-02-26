@@ -58,4 +58,14 @@
       }
     }
   }
+
+  &__auth {
+    width: 30px;
+    height: 30px;
+    transition: all 500ms ease;
+
+    &:hover {
+      transform: translateY(-15%);
+    }
+  }
 }
